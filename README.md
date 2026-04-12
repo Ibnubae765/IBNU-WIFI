@@ -52,7 +52,7 @@ Untuk memeriksa pembaruan dan melakukan pembaruan, jalankan perintah berikut:
 Harap dicatat bahwa akses root diperlukan.  
 
 ### Cara Meretas WiFi Menggunakan Termux! (Membutuhkan Akses Root)
-<p align="center"><img src="https://l.top4top.io/p_28355s7ua0.png"></
+<p align="center"><img src="https://e.top4top.io/p_37546u98c0.png"></
 
 
 #### Manually
@@ -61,7 +61,7 @@ Harap dicatat bahwa akses root diperlukan.
  pkg install -y root-repo
  pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
  ```
-**Getting WifiHack**
+**Dapatkan Ibnu-Wifi**
  ```
   git clone --depth 1 https://github.com/gtajisan/WifiHack WifiHack
  ```
