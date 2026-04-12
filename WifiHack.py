@@ -85,7 +85,7 @@ print("""\033[1;32m
  \033[1;37mFacebook:            IBNU
  \033[1;37mGithub  :            Ibnu765
  \033[1;37mWhatsapp:            +6282181410507
- \033[1;31mJALANLAN PERINTAH DI INI:
+ \033[1;31mJALANLAN PERINTAH DIBAWAH INI:
 \033[1;31msudo python WifiHack.py -i wlan0 -K
  \033[1;31mBUTUH BANTUAN HUB : 082181410507
 
