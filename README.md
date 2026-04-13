@@ -34,9 +34,6 @@ Untuk memeriksa pembaruan dan melakukan pembaruan, jalankan perintah berikut:
 7. Membobol semua WiFi
 
 8. Membobol handshake tanpa dukungan mode monitor
-
-
-
 ```
 
 ## Tested On :
@@ -75,8 +72,6 @@ Harap dicatat bahwa akses root diperlukan.
  
 # INSTALL VERSI LENGKAP
 ```
-*JALANKAN PERINTAH INI*
-
 pkg update && pkg upgrade -y
 
 pkg install -y root-repo
